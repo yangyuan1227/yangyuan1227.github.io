@@ -258,7 +258,6 @@ SIDEBAR + RIGHT COLUMN
 
 .sidebar-link:before {
   font-family: 'FontAwesome';
-  content: '\f105';
   margin: 0 0.85rem 0 -0.9375rem;
   color: #999;
 }
@@ -731,7 +730,6 @@ ABOUT
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 
