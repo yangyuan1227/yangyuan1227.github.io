@@ -170,7 +170,7 @@ SIDEBAR + RIGHT COLUMN
 
 */
 #sidebar {
-  padding-top: 2.5rem;
+  padding-top: 3.0rem;
 }
 
 @media (min-width: 576px) {
@@ -301,6 +301,7 @@ SIDEBAR + RIGHT COLUMN
 
 .content-column-content p.lead {
   color: #555;
+  text-align: center
 }
 
 .content-column-content p,
@@ -319,7 +320,10 @@ SIDEBAR + RIGHT COLUMN
   color: #ef5285;
 }
 
-.content-column-content h1,
+.content-column-content h1 {
+  text-align: center
+}
+
 .content-column-content h2,
 .content-column-content h3,
 .content-column-content h4,
